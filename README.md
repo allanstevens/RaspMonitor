@@ -3,6 +3,8 @@
 ## Overview
 RaspMonitor is a project designed to monitor and manage tasks on Raspberry Pi devices. It utilizes XSLT for data transformation and PHP for backend processing. To use RaspMonitor, you must install the [RaspController app](https://www.egalnetsoftwares.com/apps/raspcontroller/) on your device. The app automatically installs a Python script that enables monitoring of CPU, RAM, Storage, and Network when you open the corresponding section in the app. Ensure this step is completed so that the PHP code has the necessary script to run.
 
+![image](https://github.com/user-attachments/assets/bc82b238-dcdd-473d-b9b8-f0c0ed8fd8c4)
+
 ## Features
 - Real-time monitoring of Raspberry Pi metrics
 - Simple XML output with data transformation using XSLT (this was to allow simple intergration to openHAB)
