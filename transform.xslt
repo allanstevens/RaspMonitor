@@ -113,7 +113,7 @@
                 </xsl:choose>
                 <p>View <a href="?xml">XML</a> or <a href="?text">plain text</a></p>    
                 <p><a href="https://github.com/allanstevens/RaspMonitor">https://github.com/allanstevens/RaspMonitor</a></p>                
-                <p><small>Stats provided <a href='https://www.egalnetsoftwares.com/apps/raspcontroller/' target="_blank">RASPCONTROLLER</a> python script, please consider buying a license</small></p> 
+                <p><small>Stats provided by <a href='https://www.egalnetsoftwares.com/apps/raspcontroller/' target="_blank">RASPCONTROLLER</a> python script, please consider buying a license</small></p> 
             </body>
         </html>
     </xsl:template>
